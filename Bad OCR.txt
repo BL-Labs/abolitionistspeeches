@@ -1,0 +1,13 @@
+newspaper,day,month,year,page,article title
+Northern Liberator, 21 October 1837
+Aberdeen Journal, 28 March 1838
+Aberdeen Journal, 21 March 1838
+Aberdeen Journal, 2 January 1839
+Aberdeen Journal, 9 January 1839
+Belfast Newsletter, 2 January 1844
+Bristol Mercury, 3 January 1852, 8
+Hull Packet and East Riding Times, 2 January 1846, 8
+Ipswich Journal, 22 October 1853, 4
+Jackson's Oxford Journal, 19 November 1864, 8
+Leeds Mercury, 26 December 1846, 4
+Leeds Mercury, 12 December 1846, 4
